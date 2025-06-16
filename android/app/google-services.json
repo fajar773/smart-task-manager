@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431154545074",
+    "project_id": "flutter-showcase-app-93c18",
+    "storage_bucket": "flutter-showcase-app-93c18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431154545074:android:1a0a21264ff39a6bed64ab",
+        "android_client_info": {
+          "package_name": "com.smart.task.manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9BvOEzlSg_grVCm_t7wNsndy2yppTyCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
