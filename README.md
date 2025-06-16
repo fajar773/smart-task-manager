@@ -65,7 +65,7 @@ lib/
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/smart_task_manager.git
+git clone https://github.com/fajar773/smart-task-manager.git
 cd smart_task_manager
 flutter pub get
 ```
